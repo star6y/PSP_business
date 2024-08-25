@@ -1,0 +1,9 @@
+        cd .\projects\PSP_business\
+
+
+in frontend directory run:
+npm run build
+npm run start
+
+in backend directory run:
+npm start
